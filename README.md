@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <h1>Anousha Zameer <small>(@anoushazara)</small></h1> 
+  <h1>Anousha Zameer <small>(@anoushazameer)</small></h1> 
   <h3>Full-Stack Developer · AI Engineering Enthusiast</h3>
 
  <p>
